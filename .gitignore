@@ -20,5 +20,4 @@ Thumbs.db
 .vscode/
 
 #inputs
-**/input.py
 **/input.txt
